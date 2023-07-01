@@ -1,2 +1,2 @@
 @Library('maven-shared-lib')_
-maven "https://github.com/Kavya5991/my-app.git","maven_docker_test"
+mavenphases "https://github.com/Kavya5991/my-app.git","docker_maven","0040916116c856e9a3f32218d58766bd29e2e3f1","http://172.21.252.231:8093/"
